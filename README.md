@@ -56,6 +56,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Slupix/Slupix/output/snake.svg" alt="Snake animation" />
 
 ###
